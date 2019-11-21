@@ -1,0 +1,10 @@
+{
+  "version": 0,
+  "title": "No deploy",
+  "description": "Template starter with a clean studio and a small frontend with no deployment",
+  "previewMedia": {
+    "type": "image",
+    "src": "assets/studio.jpg",
+    "alt": "Studio"
+  }
+}
