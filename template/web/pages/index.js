@@ -1,5 +1,5 @@
-import React from "react";
-import Head from "../components/head";
+import React from 'react'
+import Head from '../components/head'
 
 const Home = () => {
   return (
@@ -28,7 +28,7 @@ const Home = () => {
         }
       `}</style>
     </div>
-  );
-};
+  )
+}
 
-export default Home;
+export default Home

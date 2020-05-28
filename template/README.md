@@ -1,8 +1,8 @@
-# <#< sanity.projectTitle >#>
+# A Sanity template without any deployment
 
-_A template starter with a clean Studio._
+_A template starter with a clean Studio and no deployment._
 
-Deployed from [sanity.io/create](https://www.sanity.io/create/?template=sanity-io%2Fsanity-template-clean).
+Created from [sanity.io/create](https://www.sanity.io/create/?template=sanity-io%2Fsanity-template-no-deployment).
 
 ## What you have
 
@@ -15,10 +15,6 @@ Deployed from [sanity.io/create](https://www.sanity.io/create/?template=sanity-i
 3. `npm run dev` to start the studio and frontend locally
    - Your studio should be running on [http://localhost:3333](http://localhost:3333)
 4. `npm run build` to build to production locally
-
-## Deploy changes
-
-Netlify automatically deploys new changes commited to master on GitHub. If you want to change deployment branch, do so in [build & deploy settings on Netlify](https://www.netlify.com/docs/continuous-deployment/#branches-deploys).
 
 ## Stuck? Get help
 
