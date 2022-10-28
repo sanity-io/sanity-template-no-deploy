@@ -1,6 +1,6 @@
 {
   "name": "sanity-template-no-deploy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "scripts": {
     "start": "run-p start:*",
@@ -10,7 +10,7 @@
     "postinstall": "lerna bootstrap"
   },
   "devDependencies": {
-    "@sanity/cli": "^1.149.13",
+    "@sanity/cli": "^2.0.0",
     "eslint": "^7.1.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-prettier": "^3.1.3",
